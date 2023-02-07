@@ -1,3 +1,12 @@
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [ ['$', '$'] ],
+        displayMath: [ ['$$', '$$']]}
+});
+</script>
+
+<script type="text/javascript" src="https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=default"></script>
+
 # 现代化学发展的新趋势
 * 从宏观向微观深入
 * 从定性和半定量到定量
@@ -18,11 +27,3 @@ $$ V = \frac{nRT}{p}\qquad\Longrightarrow\qquad pV=nRT$$
 
 摩尔气体常数$R=8.314J\cdot mol^{-1}\cdot K^{-1}$
 
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [ ['$', '$'] ],
-        displayMath: [ ['$$', '$$']]}
-});
-</script>
-
-<script type="text/javascript" src="https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=default"></script>
