@@ -16,4 +16,4 @@
 ## 理想气体的状态方程
 $$ V = \frac{nRT}{p}\qquad\Longrightarrow\qquad pV=nRT$$
 
-摩尔气体常数$R=8.314J\cdot mol^{-1}\cdot K^{-1}
+摩尔气体常数$R=8.314J\cdot mol^{-1}\cdot K^{-1}$
