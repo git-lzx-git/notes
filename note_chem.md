@@ -1,12 +1,3 @@
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [ ['$', '$'] ],
-        displayMath: [ ['$$', '$$']]}
-});
-</script>
-
-<script type="text/javascript" src="https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=default"></script>
-
 # 现代化学发展的新趋势
 * 从宏观向微观深入
 * 从定性和半定量到定量
@@ -19,7 +10,7 @@ MathJax.Hub.Config({
 ## 波义耳定律
 当气体物质的量$n$和温度$T$一定时，体积和压强呈反比。$V=\propto \frac1p$
 ## 盖-吕萨克定律
-但$n$和$p$一定时，$V\propto T$
+但 $n$ 和$p$一定时，$V\propto T$
 ## 阿伏伽德罗定律
 当$p$和$T$一定时，$V\propto n$
 ## 理想气体的状态方程
