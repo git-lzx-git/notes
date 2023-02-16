@@ -29,8 +29,7 @@ $p_{\text{内}}\propto(\frac{n_{\text{外}}}{V})(\frac{n_{\text{内}}}{V})$ 对�
 
 所以， $p_{\text{内}}\propto(\frac{n}{V})^2$ $\Longrightarrow$ $p_{\text{内}}=a(\frac{n}{V})^2$
 
-将理想空间公式和p内带入理想气体物态方程，$[p_{\text{实}}+(\frac{n}{V})^2](V_{\text{实}}-b)=nRT\qquad \text{a,b是范德华常数}$
-
+将理想空间公式和p内带入理想气体物态方程，
 当 $n=1mol$ 时, $(p_{\text{m,实}}+\frac{a}{V^2})(V_{\text{m,实}})=RT$
 
 $He$ 接近理想气体。
