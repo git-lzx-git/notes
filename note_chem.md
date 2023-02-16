@@ -25,14 +25,19 @@ $b$:每摩尔气体分子的体积。 $n$:物质的量
 $p_{\text{理}}=p_{\text{实}}+p_{\text{内}}$  
 $p_{\text{内}}$为由于分子间引力而减小的压强。
 
+$p_{\text{内}}\propto(\frac{n_{\text{外}}}{V})(\frac{n_{\text{内}}}{V})$ 对于统一容器的器壁而言，两部分浓度相同。
+
+所以， $p_{\text{内}}\propto(\frac{n}{V})^2$ $\Longrightarrow$ $p_{\text{内}}=a(\frac{n}{V})^2$
+
+将理想空间公式和p内带入理想气体物态方程， $[p_{\text{实}}+(\frac{n}{V})^2](V_{\text{实}}-b)=nRT\qquad a,b是范德华常数$
+
+当 $n=1mol$ 时, $(p_{\text{m,实}}+\frac{a}{V^2})(V_{\text{m,实}})=RT$
+
+$He$ 接近理想气体。
+
+# 1.1.2 混合气体的分压定律（道尔顿分压定律）
+
 ![例题1](pictures/a.png)
 ![例题2](pictures/b.png)
 
-$\sqrt{3x-1}+(1+x)^2$
 
-$$\begin{array}{c}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
-= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}} & = 0
-\end{array}$$
